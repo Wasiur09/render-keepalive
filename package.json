@@ -14,3 +14,16 @@
     "express": "^5.1.0"
   }
 }
+
+{
+  "name": "render-keepalive",
+  "version": "1.0.0",
+  "description": "Keeps Render free tier apps awake",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
