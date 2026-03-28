@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // URL of your Render server (replace with your actual URL)
-const YOUR_RENDER_SERVER_URL = "https://n8n-2-ndqu.onrender.com";
+const YOUR_RENDER_SERVER_URL = "https://n8n-service-6i38.onrender.com";
 
 // Function to ping a URL
 async function pingServer(url) {
